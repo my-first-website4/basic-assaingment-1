@@ -7,6 +7,10 @@ h1{
     font-size: 50px;
 }
 
+p{
+    color: indianred;
+}
+
 
 .orange{
     color: orange;
@@ -35,11 +39,12 @@ section{
 
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(45deg, lightsalmon, yellow );
+    background-image: linear-gradient(45deg, lightsalmon, tomato );
     padding: 10px 20px;
     border-radius: 20px;
     color: black;
     font-weight: 700;
+    
 }
 .dream-area{
     background-image: url("images/developer-portfolio/dream-bg.png");
@@ -57,17 +62,20 @@ text-align: center;
 
 
 
-.single-exparince{
+.single-exparince{ 
 
+    
     box-shadow: 10px 10px 40px grey;
     border-radius: 10px;
     height: 80%;
 }
 
+
 .exparinces-area{
     background-image:url("images/developer-portfolio/exp-bg.png") ;
     background-repeat: no-repeat;
     background-position: left;
+    bottom: 2px;
 
 
 
@@ -97,14 +105,86 @@ footer p{
 
 
 .last-banner img{
-    width: 22%;
+    width: 20%;
     float: left;
-    margin-left: 4%;
-    padding-left: 4%;
+    margin-left: 8%;
+    padding: 1% 1%;
+
+
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    height: 100%;
+    
+
+
+}
+
+.last-banner{
+
+    padding-bottom: 5px;
+}
+
+#hudai{
+
+    text-align: center;
+}
+
+.moddhe img{
+    width: 50%;
+    float: left;
+    margin-left: 25%;
+    
+
+
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 25px;
+    height: 100%;
+    position: initial;
 
 
 
 }
+
+
+#form-decoration{
+
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    height: 40%;
+    margin-top: 1%;
+    margin-bottom: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5% 5%;
+    background-color: cornsilk;
+
+
+
+
+}
+
+.rgb{
+
+    color: lightcoral;
+}
+
+#jaiga{
+
+    margin-bottom: 5px;
+}
+
+#bgb{
+
+text-align: center;
+color: white;
+}
+
+
+
+
+
+
+
 
 
 
